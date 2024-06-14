@@ -23,7 +23,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".GuessTheCountry" />
         <activity android:name=".GuessTheFlag" />
+        <activity android:name=".GuessHints" />
+        <activity android:name=".AdvancedLevel" />
     </application>
 
 </manifest>
