@@ -26,12 +26,14 @@
 
 ## Screenshots
 
-![Basic Level](screenshots/basic_level.png)
-![Advanced Level](screenshots/advanced_level.png)
-![Score Tracking](screenshots/score_tracking.png)
+<img src ="app/src/main/res/drawable/MainMenu.png" height="500">
+<img src ="app/src/main/res/drawable/GuessTheFlag.png" height="500">
+<img src ="app/src/main/res/drawable/GuessTheCountry.png" height="500">
+<img src ="app/src/main/res/drawable/GuessTheFlag.png" height="500">
+<img src ="app/src/main/res/drawable/AdvancedMode.png" height="500">
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/guess-the-country.git
+   git clone https://github.com/minolFernando05/Mobile-Application-Development-CW1.git
