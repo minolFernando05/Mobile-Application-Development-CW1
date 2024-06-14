@@ -26,11 +26,11 @@
 
 ## Screenshots
 
-<img src ="app/src/main/res/drawable/MainMenu.png" height="500">
-<img src ="app/src/main/res/drawable/GuessTheFlag.png" height="500">
-<img src ="app/src/main/res/drawable/GuessTheCountry.png" height="500">
-<img src ="app/src/main/res/drawable/GuessTheFlag.png" height="500">
-<img src ="app/src/main/res/drawable/AdvancedMode.png" height="500">
+<img src ="public/MainMenu.png" height="500">
+<img src ="public/GuessTheFlag.png" height="500">
+<img src ="public/GuessTheCountry.png" height="500">
+<img src ="public/GuessTheFlag.png" height="500">
+<img src ="public/AdvancedMode.png" height="500">
 
 ## Installation
 
